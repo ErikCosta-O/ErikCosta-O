@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning **Javascript, C# ,MySQL**
 
 - 📫 How to reach me **erikoliveira.c@gmail.com**
-[Curriculo](https://erikcosta-o.github.io/Meu_Portifolio/)
+
+-[Curriculo](https://erikcosta-o.github.io/Meu_Portifolio/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
