@@ -4,7 +4,6 @@
 
 - 📫 Email para Contato **erikoliveira.c@gmail.com**
 
-- Portifolio  <a href="https://github.com/ErikCosta-O/Projeto--Portifolio">Link do Repositorio</a>
 
 <p align="left">
 </p>
