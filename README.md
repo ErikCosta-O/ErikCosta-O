@@ -1,8 +1,9 @@
 <h1 align="center">Olá 👋, Me chamo Erik Costa</h1>
 
-- 🌱 Atualmente estou estudando **Javascript, C# ,MySQL ,HTML e CSS**
+- 🌱 Atualmente sou iniciante na área de programação 
 
 - 📫 Email para Contato **erikoliveira.c@gmail.com**
+- <a href="https://erikcosta-o.github.io/ProjetoPortifolio/">Esse é meu portfolio</a>  
 
 <hr>
 <h2 align="center">Linguagens e Ferramentas</h2>
