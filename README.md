@@ -42,5 +42,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ErikCosta-O&theme=blue-green">
 <br>
     <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
-    <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
 </p>
