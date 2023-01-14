@@ -38,8 +38,9 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ErikCosta-O&&style=flat-square"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikCosta-O&theme=blue-green">
-    <img src="https://github-readme-stats.vercel.app/api?username=ErikCosta-O&theme=blue-green">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikCosta-O&theme=gruvbox" align="center">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=ErikCosta-O&theme=gruvbox" align="center">
 <br>
     <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
 </p>
