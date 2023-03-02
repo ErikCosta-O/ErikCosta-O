@@ -3,7 +3,6 @@
 - 🌱 Atualmente sou iniciante na área de programação 
 
 - 📫 Email para Contato **erikoliveira.c@gmail.com**
-- <a href="https://github.com/ErikCosta-O/ProjetoPortifolio">Esse é meu portfolio</a>  
 
 <hr>
 <h2 align="center">Linguagens e Ferramentas</h2>
